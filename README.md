@@ -1,4 +1,4 @@
-#Reduce protein fasta redundancy
+# Reduce protein fasta redundancy
 
 *reduce_protein_redundancy.py* is a small script that utilizes three files:
 
@@ -10,5 +10,5 @@ Implement the program in the follwing way:
 
 `python ./reduce_protein_redundancy.py <blastpResult> <proteinFasta> <newFasta>`
 
-[BLAST Comamnd Line] (https://www.ncbi.nlm.nih.gov/books/NBK279675/)
+[BLAST Comamnd Line](https://www.ncbi.nlm.nih.gov/books/NBK279675/)
 
